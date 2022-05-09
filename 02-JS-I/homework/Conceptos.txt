@@ -1,0 +1,17 @@
+CONCEPTOS 
+
+VARIABLE: nos permite guardar algo que después cuando lo invoquemos bajo ese nombre lo pueda recuperar de alguna manera. La variables tienen nombres y pueden tener o no valores.
+
+Ejemplo -->  var first name = ANA  
+                
+STRIGS: es un tipo de dato, o hilo de caracteres que se expresan si o si entre comillas.
+
+FUNCIONES: para ejecutar una acción bajo el nombre de esa función sin tener que escribir dos veces o mas lo mismo. Agrupa códigos que después podemos invocar con el nombre de la función. Existen varias formas de escribir una función ( y siempre necesita paréntesis para ejecutarse ): 
+
+
+1)function nombrefunction (el argumento o los argumentos) {el bloque de codigo}
+
+
+DECLARACIONES: son un tipo de statements. Ejemplo: return, con este codigo yo declaro en la función que me retorne un valor. 
+
+VALORES BOLEANOS : son un tipo de dato de lógica binaria ( TRUE , FALSE) 
