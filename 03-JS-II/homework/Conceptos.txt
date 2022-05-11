@@ -1,0 +1,20 @@
+CONCEPTOS JSII
+
+FOR: Es un bucle que se utiliza para no escribir muchas veces un bloque de código, es decir, para sintetizar el una ejecución de códigos. Esta compuesto por tres partes: 
+
+1)una variable que va a contar la cantidad de repeticiones que va haciendo, yo lo entiendo mas como que marca desde donde arranca el punto de partida. 
+2)condicion de frenado, es decir, hasta cuando quiero que ejecute. 
+3)el paso, es decir, como queremos que se vaya incrementando el valor de var i=0. 
+
+For (var i=0; i<=100; i++) {bloque de codigo}
+
+&&: es un operador lógico que significa "AND" o "Y" sirve para evaluar expresiones y devolver verdadero solo si ambas son TRUE, si una de ellas es falso, el operador devolverá FALSE. 
+
+
+|| : Es un operador lógico que significa "OR" u "O". Sirve para evaluar expresiones y devolver verdadero si una o ambas expresiones es TRUE. Y devolver False si AMBAS son falsas. 
+
+! : operador logico " la negación " para poner a prueba la veracidad. Significa "NOT" o "NO". Devuelve el valor boleano de lo opuesto a lo que pasa. Por ejemplo: 
+
+if (! false){ console.log} TRUE 
+if (!1===1){console.log () FALSE 
+
