@@ -227,7 +227,7 @@ function continueStatement(numero) {
 var suma= numero
 var array=[]
 for (var i=0; i<10; i++) {
-if (i===5) continue;
+if (i===5) continue; // El continue lo que hace es decir "okay: sigo con la próxima iteración del bucle, sin importar lo que tenga debajo mío".
 else { 
   suma= suma+2; 
   array.push(suma);
